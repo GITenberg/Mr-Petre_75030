@@ -1,0 +1,45 @@
+_repo: Mr-Petre_75030
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Chesterton, G. K. (Gilbert Keith)
+    aliases:
+    - Chesterton, Gilbert Keith
+    - Chesterton, Gilbert K. (Gilbert Keith)
+    birthdate: 1874
+    deathdate: 1936
+    gutenberg_agent_id: '80'
+    url: http://www.gutenberg.org/2009/agents/80
+    wikipedia: https://en.wikipedia.org/wiki/G._K._Chesterton
+creator:
+  author:
+    agent_name: Belloc, Hilaire
+    aliases:
+    - Belloc, Joseph Hilaire Pierre
+    - Belloc, H.
+    birthdate: 1870
+    deathdate: 1953
+    gutenberg_agent_id: '2437'
+    url: http://www.gutenberg.org/2009/agents/2437
+    wikipedia: https://en.wikipedia.org/wiki/Hilaire_Belloc
+description: ''
+gutenberg_issued: '2025-01-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75030'
+language: en
+pgterms:marc904: https://babel.hathitrust.org/cgi/pt?id=uc1.323015
+pgterms:marc905: 20210421204829belloc
+pgterms:marc906: '1925'
+pgterms:marc907: US
+production_note: Carol Brown, Emmanuel Ackerman and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This book was produced from images made available
+  by the HathiTrust Digital Library.)
+publication_note: '  $aNew York :$bRobert M. McBride & Company, $c1925.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Mr. Petre
+url: http://www.gutenberg.org/ebooks/75030
